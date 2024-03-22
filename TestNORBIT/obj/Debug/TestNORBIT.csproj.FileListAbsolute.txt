@@ -1,0 +1,7 @@
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\bin\Debug\TestNORBIT.exe.config
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\bin\Debug\TestNORBIT.exe
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\bin\Debug\TestNORBIT.pdb
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\obj\Debug\TestNORBIT.csproj.AssemblyReference.cache
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\obj\Debug\TestNORBIT.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\obj\Debug\TestNORBIT.exe
+C:\Users\Anatoly\source\repos\TestNORBIT\TestNORBIT\obj\Debug\TestNORBIT.pdb
