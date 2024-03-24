@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestNORBIT
 {
-    class IndexCalculation
+    public class IndexCalculation
     {
         public void InputData()
         {
@@ -41,6 +41,7 @@ namespace TestNORBIT
            
 
             float bodyMassIndex = (float)(weight / Math.Pow(height, 2));
+            bodyMassIndex = (float)Math.Round(bodyMassIndex, 1);
 
             string result = "";
 
